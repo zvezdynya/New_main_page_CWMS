@@ -1,0 +1,21 @@
+<svg width="50" height="50" viewBox="0 0 50 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_1_96)">
+<path d="M35.4167 10.4167H14.5834C12.2822 10.4167 10.4167 12.2822 10.4167 14.5834V35.4167C10.4167 37.7179 12.2822 39.5834 14.5834 39.5834H35.4167C37.7179 39.5834 39.5834 37.7179 39.5834 35.4167V14.5834C39.5834 12.2822 37.7179 10.4167 35.4167 10.4167Z" stroke="rgba(255, 255, 255, 1)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M16.6667 10.4167V4.16669" stroke="rgba(255, 255, 255, 1)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M33.3333 10.4167V6.25002L35.4166 4.16669" stroke="rgba(255, 255, 255, 1)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M33.3333 45.8333V39.5833" stroke="rgba(255, 255, 255, 1)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M18.75 45.8333V39.5833" stroke="rgba(255, 255, 255, 1)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M10.4167 16.6667H4.16669" stroke="rgba(255, 255, 255, 1)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M45.8333 16.6667H39.5833" stroke="rgba(255, 255, 255, 1)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M45.8333 33.3333H39.5833" stroke="rgba(255, 255, 255, 1)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M10.4167 33.3333H6.25002L4.16669 35.4166" stroke="rgba(255, 255, 255, 1)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M44.4719 14.8162C44.456 14.0513 45.2699 13.5526 45.9442 13.914L48.9962 15.5502C49.6768 15.915 49.7046 16.8807 49.0462 17.2841L46.0664 19.1102C45.408 19.5137 44.5602 19.0504 44.5441 18.2784L44.4719 14.8162Z" fill="rgba(255, 255, 255, 1)"/>
+<ellipse cx="33.5" cy="46" rx="2.5" ry="2" fill="rgba(255, 255, 255, 1)"/>
+<rect x="2" y="14" width="4" height="5" rx="1" fill="rgba(255, 255, 255, 1)"/>
+</g>
+<defs>
+<clipPath id="clip0_1_96">
+<rect width="50" height="50" fill="rgba(255, 255, 255, 1)"/>
+</clipPath>
+</defs>
+</svg>
